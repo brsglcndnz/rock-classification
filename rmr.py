@@ -172,7 +172,7 @@ def main():
             print(f"RMR value = {round(rmr, 0)} Very poor rock")
             
         if rmr < 5:
-                print("NATM class = C5")
+            print("NATM class = C5")
                 
         elif rmr < 10:
             print("NATM class = C4")
