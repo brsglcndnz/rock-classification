@@ -1,2 +1,2 @@
 # rock-classification
-Rock mass classification python code
+Python codes for Q and RMR Rock mass classification systems. These codes also gives NATM class.
